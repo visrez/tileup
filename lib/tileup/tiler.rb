@@ -1,7 +1,7 @@
 require 'ostruct'
-require 'RMagick'
+require 'rmagick'
 require 'fileutils'
-require 'tileup/logger'
+require_relative 'logger'
 
 module TileUp
 

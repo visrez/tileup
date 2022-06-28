@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-require 'tileup'
+require_relative '../lib/tileup.rb'
 require 'optparse'
 
 options = {

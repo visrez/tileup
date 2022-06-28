@@ -1,2 +1,2 @@
-require 'tileup/tiler'
-require 'tileup/version'
+require_relative 'tileup/tiler'
+require_relative 'tileup/version'
